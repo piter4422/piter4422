@@ -59,7 +59,6 @@ Aqui estão alguns dos projetos e soluções que venho desenvolvendo:
 
 <br>
 
-### 🐍 Meus Commits
 
 <div align="center">
   <picture>
