@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou o Piter! 👋</h1>
+<h1 align="center">Olá, eu sou o Pedro Lucas! 👋</h1>
 
-<h3 align="center">👨‍💻 Desenvolvedor e Fundador de uma empresa de Desenvolvimento Web</h3>
+<h3 align="center">👨‍💻 Desenvolvedor Web</h3>
 
 <p align="center">
   Focado em criar aplicações web e mobile modernas, escaláveis e com interfaces intuitivas. Transformando ideias de negócios em soluções tecnológicas reais.
@@ -8,9 +8,27 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💼 Soluções que ofereço
 
-Aqui estão as principais tecnologias com as quais trabalho para construir sites, sistemas de gestão e aplicativos:
+Meu foco é transformar as necessidades do seu negócio em tecnologia de ponta. Atuo com:
+- 💻 **Criação de Sites e Landing Pages:** Páginas modernas, animadas e responsivas.
+- 📱 **Aplicativos Mobile:** Soluções multiplataforma para iOS e Android.
+- ⚙️ **Sistemas de Gestão:** Plataformas personalizadas para gerir 100% do seu negócio (vendas, finanças, estoque e rotinas diárias).
+
+<br>
+
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos e soluções que venho desenvolvendo:
+
+- 👗 **[App de Gestão](#)**: Aplicativo desenvolvido em Flutter para gestão de vendas, controle de lucro, despesas e estoque para uma loja feita sob medida.
+- 🐅 **[App de Gestão de Animais(CETAS)(#)]**: Web app desenvolvido em Django para gestão, cadastro de animais, prontuarios e banco de dados massivo.
+- 🐾 **[Ficha Anestésica Digital](#)**: Sistema web com banco de dados focado em clínica veterinária para registro ágil e acompanhamento de pacientes.
+- 👔 **[Portfólio Profissional](#)**: Landing page interativa e rica em animações (HTML, CSS e JS) desenvolvida para destacar os trabalhos e a marca pessoal de profissionais.
+
+<br>
+
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -25,16 +43,23 @@ Aqui estão as principais tecnologias com as quais trabalho para construir sites
 
 <br>
 
-### 📊 Estatísticas do GitHub
+### 📫 Vamos conversar?
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piter4422&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piter4422&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="mailto:pedrolucasfinancas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/5599984168175" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://SEU_SITE_AQUI.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </div>
 
 <br>
 
-### 🐍 Meus Commits (Snake Animation)
+### 🐍 Meus Commits
 
 <div align="center">
   <picture>
@@ -43,3 +68,4 @@ Aqui estão as principais tecnologias com as quais trabalho para construir sites
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/piter4422/piter4422/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
