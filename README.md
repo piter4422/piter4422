@@ -3,7 +3,7 @@
 <h3 align="center">👨‍💻 Desenvolvedor Web</h3>
 
 <p align="center">
-  Focado em criar aplicações web e mobile modernas, escaláveis e com interfaces intuitivas. Transformando ideias de negócios em soluções tecnológicas reais.
+  Focado em criar aplicações web modernas, escaláveis e com interfaces intuitivas. Transformando ideias de negócios em soluções tecnológicas reais.
 </p>
 
 ---
