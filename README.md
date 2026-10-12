@@ -6,25 +6,11 @@
   Focado em criar aplicações web modernas, escaláveis e com interfaces intuitivas. Transformando ideias de negócios em soluções tecnológicas reais.
 </p>
 
----
 
-### 💼 Soluções que ofereço
-
-Meu foco é transformar as necessidades do seu negócio em tecnologia de ponta. Atuo com:
-- 💻 **Criação de Sites e Landing Pages:** Páginas modernas, animadas e responsivas.
-- 📱 **Aplicativos Mobile:** Soluções multiplataforma para iOS e Android.
-- ⚙️ **Sistemas de Gestão:** Plataformas personalizadas para gerir 100% do seu negócio (vendas, finanças, estoque e rotinas diárias).
 
 <br>
 
-### 🚀 Projetos em Destaque
 
-Aqui estão alguns dos projetos e soluções que venho desenvolvendo:
-
-- 👗 **[App de Gestão](#)**: Aplicativo desenvolvido em Flutter para gestão de vendas, controle de lucro, despesas e estoque para uma loja feita sob medida.
-- 🐅 **[App de Gestão de Animais (CETAS)](#)**: Web app desenvolvido em Django para gestão, cadastro de animais, prontuarios e banco de dados massivo.
-- 🐾 **[Ficha Anestésica Digital](#)**: Sistema web com banco de dados focado em clínica veterinária para registro ágil e acompanhamento de pacientes.
-- 👔 **[Portfólio Profissional](#)**: Landing page interativa e rica em animações (HTML, CSS e JS) desenvolvida para destacar os trabalhos e a marca pessoal de profissionais.
 
 <br>
 
